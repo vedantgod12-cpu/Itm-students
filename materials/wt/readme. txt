@@ -1,4 +1,3 @@
 const NOTES = [
-  { title: "Sample Notes (replace me)", file: "materials/wt/sample-notes.pdf" },
   { title: "UNIT 1", file: "materials/wt/Unit 1_ Introduction to World Wide Web(WWW).pdf" }
 ];
